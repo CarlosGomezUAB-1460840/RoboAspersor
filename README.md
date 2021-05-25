@@ -41,7 +41,7 @@ The robot body has been created using the tinkercad tool. It is made up of diffe
 
 Click on the image to see the 3D model.
 
-[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/piezasRobot.PNG)](https://www.tinkercad.com/things/h1H5N6yzh8O)
+[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/piezasRobot.PNG)](https://www.tinkercad.com/things/h1H5N6yzh8O)
 ---
 
 ## Requeriments

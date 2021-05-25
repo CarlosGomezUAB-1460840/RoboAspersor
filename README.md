@@ -41,7 +41,7 @@ RoboAspersor is an autonomous robot that waters the plants of a garden. It is ab
 
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
+[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/link.PNG)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
 ---
 
 ## Author Info

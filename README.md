@@ -30,7 +30,14 @@ This is our solution
 ## Description
 
 RoboAspersor is an autonomous robot that waters the plants of a garden. It is able to recognize differnt types of flowers to adjust the amount of watering.
-E
+The robot body has been created using the tinkercad tool. It is made up of different parts:
+
+- A watertight area to encapsulate electronic elements such as the Raspberry Pi,
+- the water tank that stores water for irrigation,
+- the lower part where the servomotors and the caterpillar go,
+- and the Sprinkler.
+
+Click on the image to see the 3D model.
 
 [![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/piezasRobot.PNG)](https://www.tinkercad.com/things/h1H5N6yzh8O)
 ---

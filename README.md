@@ -9,7 +9,7 @@ Autonomous robot that waters the plants of a garden. It is able to recognize dif
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [What it is?](#what-it-is?)
+- [What it is?](#what-it-is)
 - [Description](#description)
 - [Simulation](#simulation)
 - [Author Info](#author-info)
@@ -18,13 +18,18 @@ You're sections headers will be used to reference location of destination.
 
 ## What it is?
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+The development team is made up of 3rd year information engineering students. This project has been developed for the subject of Robotics Language and Planning.
+
+Currently on the market there are many robot vacuum cleaners such as the rumba among others, but there is none that is capable of autonomously watering a garden. We have designed a robot, with a budget of 100, capable of watering the garden and taking care of the watering of the different types of plants.
+
+>This is our solution
 
 ---
+
 ## Description
-fa
-fdasfasd
-sdafadsfgsafdas
+
+RoboAspersor is an autonomous robot that waters the plants of a garden. It is able to recognize differnt types of flowers to adjust the amount of watering.
+
 
 ## Technologies
 
@@ -33,6 +38,10 @@ sdafadsfgsafdas
 ---
 ## Simulation
 
+
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
 ---
 
 ## Author Info

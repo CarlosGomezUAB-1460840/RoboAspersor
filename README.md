@@ -41,8 +41,13 @@ The robot body has been created using the tinkercad tool. It is made up of diffe
 
 Click on the image to see the 3D model.
 
-[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/piezasRobot.PNG)](https://www.tinkercad.com/things/h1H5N6yzh8O)
+[![3D model](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/piezasRobot.PNG)](https://www.tinkercad.com/things/h1H5N6yzh8O)
 
+To do the simulation we have used CoppeliaSim Edu.
+
+Now let's see the software part of ther project.
+
+![Software diagram](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/estructuraSW.png)
 
 ---
 
@@ -82,7 +87,7 @@ In the simulation, the robot can be seen watering the different flowers. If a fl
 
 Click on the image to see the simulation video.
 
-[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/linkVideo.png)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
+[![Simulation](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/linkVideo.png)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
 
 ---
 

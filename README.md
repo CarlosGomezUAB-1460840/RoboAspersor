@@ -66,7 +66,10 @@ For developement:
 ---
 ## How to Use
 
-FALTA POR COMPLETAR
+1. Clone this repo.
+> git clone 
+3. Install the required libraries
+4.
 
 ---
 ## Simulation

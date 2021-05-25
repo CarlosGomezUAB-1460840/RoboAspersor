@@ -67,7 +67,7 @@ For developement:
 ## How to Use
 
 1. Clone this repo.
-> git clone 
+> git clone [https://github.com/CarlosGomezUAB-1460840/RoboAspersor.git](https://github.com/CarlosGomezUAB-1460840/RoboAspersor.git)
 3. Install the required libraries
 4.
 

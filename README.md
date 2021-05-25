@@ -79,6 +79,7 @@ using conda:
 ---
 ## Simulation
 In the simulation, the robot can be seen watering the different flowers. If a flower has already been watered, it is not watered again.
+
 Click on the image to see the simulation video.
 
 [![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/linkVideo.png)](https://www.youtube.com/watch?v=n0WhtZnf5Do)

@@ -68,8 +68,10 @@ For developement:
 
 1. Clone this repo.
 > git clone [https://github.com/CarlosGomezUAB-1460840/RoboAspersor.git](https://github.com/CarlosGomezUAB-1460840/RoboAspersor.git)
-3. Install the required libraries
-4.
+2. Install the required libraries
+using conda:
+> conda env creaate -f enviroment.yml
+3. Execute python script in each directory
 
 ---
 ## Simulation

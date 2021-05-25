@@ -12,6 +12,7 @@ You're sections headers will be used to reference location of destination.
 - [What it is?](#what-it-is)
 - [Description](#description)
 - [Requeriments](#requeriments)
+- [How to Use](#how-to-use)
 - [Simulation](#simulation)
 - [Author Info](#author-info)
 
@@ -30,6 +31,7 @@ This is our solution
 ## Description
 
 RoboAspersor is an autonomous robot that waters the plants of a garden. It is able to recognize differnt types of flowers to adjust the amount of watering.
+
 The robot body has been created using the tinkercad tool. It is made up of different parts:
 
 - A watertight area to encapsulate electronic elements such as the Raspberry Pi,
@@ -60,6 +62,11 @@ For developement:
 - Sim (for connect to Coppelia)
 - And other libraries like (Time, sys, random, skimage.io)+
 - TinkerCad (for 3D model)
+
+---
+## How to Use
+
+FALTA POR COMPLETAR
 
 ---
 ## Simulation

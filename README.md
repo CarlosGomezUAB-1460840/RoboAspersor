@@ -74,7 +74,7 @@ FALTA POR COMPLETAR
 
 Click on the image to see the simulation video.
 
-[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/link.PNG)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
+[![IMAGE ALT TEXT HERE](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/linkVideo.png)](https://www.youtube.com/watch?v=n0WhtZnf5Do)
 
 ---
 

@@ -74,11 +74,8 @@ For developement:
 using conda:
 > conda env creaate -f enviroment.yml
 3. Execute python script in each directory
-4. Download files fromes drive
-my_model.h5:
-> [https://drive.google.com/file/d/12cgUqMAzkhDOAFCK15ohqoKuhLXc-787/view](https://drive.google.com/file/d/12cgUqMAzkhDOAFCK15ohqoKuhLXc-787/view)<
-Robot.ttt:
->[https://drive.google.com/file/d/1a1Mf1EiXtfdA9T2JyAKpQZVHGvMsZqWz/view](https://drive.google.com/file/d/1a1Mf1EiXtfdA9T2JyAKpQZVHGvMsZqWz/view)<
+4. Download files my_model.h5 and Robot.ttt from drive
+
 ---
 ## Simulation
 In the simulation, the robot can be seen watering the different flowers. If a flower has already been watered, it is not watered again.

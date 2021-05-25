@@ -2,7 +2,7 @@
 # Read Me Template
 Autonomous robot that waters the plants of a garden. It is able to recognize differnt types of flowers to adjust the amount of watering.
 
-![RoboAspersor](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Robot.PNG)
+![RoboAspersor](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/Robot.PNG)
 
 ---
 

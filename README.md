@@ -49,6 +49,19 @@ Now let's see the software part of ther project.
 
 ![Software diagram](https://github.com/CarlosGomezUAB-1460840/RoboAspersor/blob/main/Images/estructuraSW.png)
 
+The navigation module is based on a random movement pattern. When the proximity sensor detects an obstacle and these obstacle is not a flower, the robot changes his direction. We use these functions to control the robot servos:
+```
+retCode,Motor_D1=sim.simxGetObjectHandle(clientID,'Motor_D1',sim.simx_opmode_blocking)
+sim.simxSetJointTargetVelocity(clientID, Motor_D1,vd,sim.simx_opmode_streaming)
+```
+
+The sprinkler module is activated when a plant that has not been watered is detected. Depending on the type of plant, it will be watered more or less times.
+- Daisy flower 1 time
+- Dandelion 2 times
+- Tulip 3 times
+- Rose 4 times
+- Sunflower 5 times
+
 ---
 
 ## Requeriments
